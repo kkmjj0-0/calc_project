@@ -27,3 +27,4 @@ def div (a, b):
 - mj08251122@gmail.com
 ---
 THANKS :)
+고맙습니다 :)
