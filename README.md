@@ -21,17 +21,10 @@ def mul(a, b):
 def div (a, b): 
     return a / b
 ```
-- 제곱
-```
-def square(a): 
-    return a  ** 2
-```
 
 ### 2. 개발자
-- 김민지
-- mj08251122@gmail.com
-- 안녕하세요
-
+- 이세영
+- dkgjdkcn447@gmail.com
 ---
 THANKS :)
 고맙습니다 :)
