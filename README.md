@@ -30,7 +30,7 @@ def square(a):
 ### 2. 개발자
 - 김민지
 - mj08251122@gmail.com
-- https://naver.com
+
 ---
 THANKS :)
 고맙습니다 :)
