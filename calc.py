@@ -18,3 +18,6 @@ def divi(a, b):
         return 0 
     else:
         return a / b
+
+def x3(a):
+    return a ** 3
