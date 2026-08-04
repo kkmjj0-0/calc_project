@@ -30,6 +30,7 @@ def square(a):
 ### 2. 개발자
 - 김민지
 - mj08251122@gmail.com
+- 안녕하세요
 
 ---
 THANKS :)
