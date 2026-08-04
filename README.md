@@ -23,8 +23,7 @@ def div (a, b):
 ```
 
 ### 2. 개발자
-- 이세영
-- dkgjdkcn447@gmail.com
+- 김민지
 ---
 THANKS :)
 고맙습니다 :)
